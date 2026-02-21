@@ -1,0 +1,8 @@
+{
+  "correlacao_semanal_teste_vs_controle": 0.895831,
+  "media_abs_diferenca_semanal_receita": 77450.07,
+  "media_razao_teste_sobre_controle": 1.062236,
+  "n_lojas_teste": 10,
+  "n_lojas_controle": 10,
+  "n_semanas": 52
+}
